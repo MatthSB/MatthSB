@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript | Node.js | PHP - Laravel | HTML5 | CSS3 | React</strong>
+  🦄 Languages: <strong>JavaScript | Node.js | PHP - Laravel | HTML5 | CSS3 | React JS</strong>
 </p>
 
 <p align="left">
